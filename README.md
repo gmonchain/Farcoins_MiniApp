@@ -3,7 +3,9 @@
 
 # Farcoins: Revolutionizing Web3 Social Finance
 
-![Farcoins Banner](Banner/Banner.png)
+<div align="center">
+  <img src="Banner/Banner.png" alt="Farcoins Banner" />
+</div>
 
 Farcoins is at the forefront of integrating digital asset management with social engagement within the Web3 ecosystem. We empower users to seamlessly interact with digital assets directly within their social feeds, fostering a more intuitive and rewarding experience.
 
