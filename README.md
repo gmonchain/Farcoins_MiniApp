@@ -17,10 +17,10 @@ Farcoins addresses the complexities of Web3 by offering a unified and user-frien
 <table style="width:100%">
   <tr>
     <td style="width:50%; text-align:center;">
-      <img src="Banner/image-1.png" alt="Screenshot 1" style="width:100%;">
+      <img src="Banner/ScreenShot-1.png" alt="Screenshot 1" style="width:100%;">
     </td>
     <td style="width:50%; text-align:center;">
-      <img src="Banner/image-2.png" alt="Screenshot 2" style="width:100%;">
+      <img src="Banner/ScreenShot-2.png" alt="Screenshot 2" style="width:100%;">
     </td>
   </tr>
 </table>
